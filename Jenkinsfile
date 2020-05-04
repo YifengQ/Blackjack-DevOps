@@ -3,10 +3,11 @@ pipeline {
   stages {
     stage('Building') {
       steps {
-        sh 'python Dealer.py'
-        sh 'python Deck.py'
-        sh 'python Player.py'
-        sh 'python Table.py'
+        sh 'python -m py_compile BlackJack.py'
+        sh 'python -m py_compile Dealer.py'
+        sh 'python -m py_compile Deck.py'
+        sh 'python -m py_compile Player.py'
+        sh 'python -m py_compile Table.py'
       }
     }
     stage('Unit Testing') {

@@ -1,5 +1,4 @@
 import unittest
-import xmlrunner
 from Player import Player
 from Deck import Deck
 from Table import Table
@@ -192,6 +191,4 @@ class test_DealCards(unittest.TestCase):
 
 
 if __name__ == '__main__':
-    runner = xmlrunner.XMLTestRunner(output='UnitTestReports')
-    unittest.main(testRunner=runner)
     unittest.main()
