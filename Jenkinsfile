@@ -13,6 +13,11 @@ pipeline {
       steps {
         sh 'python BlackJack_UnitTests.py'
       }
+      post {
+        always {
+          junit 'UnitTestReports/*.xml'
+        }
+      }
     }
     stage('Integration Testing') {
       steps {

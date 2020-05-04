@@ -191,4 +191,7 @@ class test_DealCards(unittest.TestCase):
 
 
 if __name__ == '__main__':
+    import xmlrunner
+    runner = xmlrunner.XMLTestRunner(output='UnitTestReports')
+    unittest.main(testRunner=runner)
     unittest.main()
