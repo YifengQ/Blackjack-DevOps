@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="369a8c9a-17f6-4f73-815c-c114ce418dbd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -93,7 +95,7 @@
       <option name="presentableId" value="Default" />
       <updated>1588550105664</updated>
       <workItem from="1588550107932" duration="4838000" />
-      <workItem from="1588563107448" duration="5455000" />
+      <workItem from="1588563107448" duration="6193000" />
     </task>
     <task id="LOCAL-00001" summary="Add Jenkinsfile">
       <created>1588551433539</created>
@@ -256,7 +258,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588569421255</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Test Commit 9">
+      <created>1588569820348</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1588569820348</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -304,7 +313,8 @@
     <MESSAGE value="Test Commit 6" />
     <MESSAGE value="Test Commit 7" />
     <MESSAGE value="Test Commit 8" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test Commit 8" />
+    <MESSAGE value="Test Commit 9" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test Commit 9" />
   </component>
   <component name="WindowStateProjectService">
     <state x="495" y="196" key="#Deployment" timestamp="1588551419699">
@@ -315,10 +325,14 @@
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
     <state x="360" y="193" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1792.1017@0.23.1792.1017" timestamp="1588566079273" />
-    <state x="479" y="133" key="CommitChangelistDialog2" timestamp="1588569421075">
+    <state x="601" y="341" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588629941822">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
-    <state x="479" y="133" key="CommitChangelistDialog2/0.23.1792.1017@0.23.1792.1017" timestamp="1588569421075" />
+    <state x="601" y="341" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1792.1017@0.23.1792.1017" timestamp="1588629941822" />
+    <state x="479" y="133" key="CommitChangelistDialog2" timestamp="1588569820193">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="479" y="133" key="CommitChangelistDialog2/0.23.1792.1017@0.23.1792.1017" timestamp="1588569820193" />
     <state width="1750" height="276" key="GridCell.Tab.0.bottom" timestamp="1588567824533">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
