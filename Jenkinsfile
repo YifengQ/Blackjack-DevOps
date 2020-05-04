@@ -1,19 +1,19 @@
 pipeline {
   agent { docker { image 'python:3.8' } }
   stages {
-    stage('build') {
+    stage('Building') {
       steps {
-        echo 'Building'
+        sh 'python Blackjack.py'
       }
     }
-    stage('test') {
+    stage('Unit Testing') {
       steps {
         sh 'python BlackJack_UnitTests.py'
       }
-      post {
-        always {
-          junit 'test-reports/*.xml'
-        }
+    }
+    stage('Integration Testing') {
+      steps {
+        sh 'python BlackJack_IntegrationTest.py'
       }
     }
   }
