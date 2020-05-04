@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="369a8c9a-17f6-4f73-815c-c114ce418dbd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blackjack.py" beforeDir="false" afterPath="$PROJECT_DIR$/Blackjack.py" afterDir="false" />
-    </list>
+    <list default="true" id="369a8c9a-17f6-4f73-815c-c114ce418dbd" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -94,7 +91,7 @@
       <option name="presentableId" value="Default" />
       <updated>1588550105664</updated>
       <workItem from="1588550107932" duration="4838000" />
-      <workItem from="1588563107448" duration="4981000" />
+      <workItem from="1588563107448" duration="5213000" />
     </task>
     <task id="LOCAL-00001" summary="Add Jenkinsfile">
       <created>1588551433539</created>
@@ -236,7 +233,21 @@
       <option name="project" value="LOCAL" />
       <updated>1588568762283</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Test Commit 6">
+      <created>1588568984253</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1588568984253</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Test Commit 7">
+      <created>1588569203290</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1588569203290</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -250,6 +261,17 @@
         <option value="3" />
         <option value="1" />
       </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
     </option>
   </component>
   <component name="VcsManagerConfiguration">
@@ -270,7 +292,9 @@
     <MESSAGE value="Test Commit 3" />
     <MESSAGE value="Test Commit 4" />
     <MESSAGE value="Test Commit 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test Commit 5" />
+    <MESSAGE value="Test Commit 6" />
+    <MESSAGE value="Test Commit 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test Commit 7" />
   </component>
   <component name="WindowStateProjectService">
     <state x="495" y="196" key="#Deployment" timestamp="1588551419699">
@@ -281,10 +305,10 @@
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
     <state x="360" y="193" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1792.1017@0.23.1792.1017" timestamp="1588566079273" />
-    <state x="479" y="133" key="CommitChangelistDialog2" timestamp="1588568984107">
+    <state x="479" y="133" key="CommitChangelistDialog2" timestamp="1588569203139">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
-    <state x="479" y="133" key="CommitChangelistDialog2/0.23.1792.1017@0.23.1792.1017" timestamp="1588568984107" />
+    <state x="479" y="133" key="CommitChangelistDialog2/0.23.1792.1017@0.23.1792.1017" timestamp="1588569203139" />
     <state width="1750" height="276" key="GridCell.Tab.0.bottom" timestamp="1588567824533">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
