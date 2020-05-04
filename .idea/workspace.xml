@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="369a8c9a-17f6-4f73-815c-c114ce418dbd" name="Default Changelist" comment="Jenkinsfile V7" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1bQ2gDatNmiJpSR5wYQcDhHmSbR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Blackjack" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="DevOps-Final-Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.8" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Blackjack.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="369a8c9a-17f6-4f73-815c-c114ce418dbd" name="Default Changelist" comment="" />
+      <created>1588550105664</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588550105664</updated>
+      <workItem from="1588550107932" duration="3351000" />
+    </task>
+    <task id="LOCAL-00001" summary="Add Jenkinsfile">
+      <created>1588551433539</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588551433539</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Jenkinsfile V2">
+      <created>1588551855686</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1588551855686</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Jenkinsfile V3">
+      <created>1588551976093</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1588551976093</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Jenkinsfile V3">
+      <created>1588552029808</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1588552029808</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Jenkinsfile V4">
+      <created>1588552455034</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1588552455034</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Jenkinsfile V5">
+      <created>1588552582046</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1588552582046</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Jenkinsfile V6">
+      <created>1588552906084</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1588552906084</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Jenkinsfile V7">
+      <created>1588553840156</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1588553840156</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add Jenkinsfile" />
+    <MESSAGE value="Jenkinsfile V2" />
+    <MESSAGE value="Jenkinsfile V3" />
+    <MESSAGE value="Jenkinsfile V4" />
+    <MESSAGE value="Jenkinsfile V5" />
+    <MESSAGE value="Jenkinsfile V6" />
+    <MESSAGE value="Jenkinsfile V7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Jenkinsfile V7" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="495" y="196" key="#Deployment" timestamp="1588551419699">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="495" y="196" key="#Deployment/0.23.1792.1017@0.23.1792.1017" timestamp="1588551419699" />
+    <state x="360" y="193" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588552893986">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="360" y="193" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1792.1017@0.23.1792.1017" timestamp="1588552893986" />
+    <state x="479" y="133" key="CommitChangelistDialog2" timestamp="1588553928530">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="479" y="133" key="CommitChangelistDialog2/0.23.1792.1017@0.23.1792.1017" timestamp="1588553928530" />
+    <state width="1750" height="276" key="GridCell.Tab.0.bottom" timestamp="1588551436733">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="1750" height="276" key="GridCell.Tab.0.bottom/0.23.1792.1017@0.23.1792.1017" timestamp="1588551436733" />
+    <state width="1750" height="276" key="GridCell.Tab.0.center" timestamp="1588551436733">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="1750" height="276" key="GridCell.Tab.0.center/0.23.1792.1017@0.23.1792.1017" timestamp="1588551436733" />
+    <state width="1750" height="276" key="GridCell.Tab.0.left" timestamp="1588551436732">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="1750" height="276" key="GridCell.Tab.0.left/0.23.1792.1017@0.23.1792.1017" timestamp="1588551436732" />
+    <state width="1750" height="276" key="GridCell.Tab.0.right" timestamp="1588551436733">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="1750" height="276" key="GridCell.Tab.0.right/0.23.1792.1017@0.23.1792.1017" timestamp="1588551436733" />
+    <state x="397" y="170" key="SettingsEditor" timestamp="1588550130374">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="397" y="170" key="SettingsEditor/0.23.1792.1017@0.23.1792.1017" timestamp="1588550130374" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DevOps_Final_Project$Blackjack.coverage" NAME="Blackjack Coverage Results" MODIFIED="1588550165302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
