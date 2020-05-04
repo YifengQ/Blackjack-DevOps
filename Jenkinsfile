@@ -4,6 +4,9 @@ pipeline {
     stage('Building') {
       steps {
         sh 'python Dealer.py'
+        sh 'python Deck.py'
+        sh 'python Player.py'
+        sh 'python Table.py'
       }
     }
     stage('Unit Testing') {
