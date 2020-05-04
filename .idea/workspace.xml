@@ -12,6 +12,9 @@
   <component name="CoverageViewManager">
     <option name="myElementSize" value="437" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="DevOps-Final-Project" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -90,7 +93,7 @@
       <option name="presentableId" value="Default" />
       <updated>1588550105664</updated>
       <workItem from="1588550107932" duration="4838000" />
-      <workItem from="1588563107448" duration="4279000" />
+      <workItem from="1588563107448" duration="4710000" />
     </task>
     <task id="LOCAL-00001" summary="Add Jenkinsfile">
       <created>1588551433539</created>
@@ -218,11 +221,28 @@
       <option name="project" value="LOCAL" />
       <updated>1588568021622</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Test Commit 4">
+      <created>1588568236140</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1588568236140</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add Jenkinsfile" />
@@ -240,7 +260,8 @@
     <MESSAGE value="Test Commit" />
     <MESSAGE value="Test Commit 2" />
     <MESSAGE value="Test Commit 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test Commit 3" />
+    <MESSAGE value="Test Commit 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test Commit 4" />
   </component>
   <component name="WindowStateProjectService">
     <state x="495" y="196" key="#Deployment" timestamp="1588551419699">
@@ -251,10 +272,10 @@
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
     <state x="360" y="193" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1792.1017@0.23.1792.1017" timestamp="1588566079273" />
-    <state x="479" y="133" key="CommitChangelistDialog2" timestamp="1588568021458">
+    <state x="479" y="133" key="CommitChangelistDialog2" timestamp="1588568699894">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
-    <state x="479" y="133" key="CommitChangelistDialog2/0.23.1792.1017@0.23.1792.1017" timestamp="1588568021458" />
+    <state x="479" y="133" key="CommitChangelistDialog2/0.23.1792.1017@0.23.1792.1017" timestamp="1588568699894" />
     <state width="1750" height="276" key="GridCell.Tab.0.bottom" timestamp="1588567824533">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
