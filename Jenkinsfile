@@ -13,7 +13,7 @@ pipeline {
     stage('Unit Testing') {
       steps {
         sh 'python BlackJack_UnitTests.py'
-      }cover
+      }
     }
     stage('Integration Testing') {
       steps {
