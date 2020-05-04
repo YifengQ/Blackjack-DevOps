@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('Building') {
       steps {
-        sh 'python Blackjack.py'
+        sh 'python Dealer.py'
       }
     }
     stage('Unit Testing') {
