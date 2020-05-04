@@ -7,15 +7,11 @@ pipeline {
                 echo 'Building..'
             }
         }
-        stage('Test') {
+        stage('Unit Testing') {
             steps {
-                echo 'Testing..'
+                sh 'python BlackJack_UnitTests.py'
             }
         }
-        stage('Deploy') {
-            steps {
-                echo 'Deploying....'
-            }
-        }
+
     }
 }
