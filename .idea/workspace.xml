@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="369a8c9a-17f6-4f73-815c-c114ce418dbd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Jenkinsfile" beforeDir="false" afterPath="$PROJECT_DIR$/Jenkinsfile" afterDir="false" />
     </list>
@@ -34,6 +35,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -147,7 +149,7 @@
       <option name="presentableId" value="Default" />
       <updated>1588550105664</updated>
       <workItem from="1588550107932" duration="4838000" />
-      <workItem from="1588563107448" duration="10055000" />
+      <workItem from="1588563107448" duration="11037000" />
     </task>
     <task id="LOCAL-00001" summary="Add Jenkinsfile">
       <created>1588551433539</created>
@@ -359,7 +361,28 @@
       <option name="project" value="LOCAL" />
       <updated>1588705612885</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="update pipepline build test3">
+      <created>1588705815829</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1588705815829</updated>
+    </task>
+    <task id="LOCAL-00032" summary="update pipepline build revert">
+      <created>1588705908082</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1588705908082</updated>
+    </task>
+    <task id="LOCAL-00033" summary="update pipepline test5">
+      <created>1588706025949</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1588706025949</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -387,9 +410,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add Jenkinsfile" />
-    <MESSAGE value="Jenkinsfile V2" />
-    <MESSAGE value="Jenkinsfile V3" />
     <MESSAGE value="Jenkinsfile V4" />
     <MESSAGE value="Jenkinsfile V5" />
     <MESSAGE value="Jenkinsfile V6" />
@@ -412,7 +432,10 @@
     <MESSAGE value="checking docker update" />
     <MESSAGE value="update pipepline build test" />
     <MESSAGE value="update pipepline build test2" />
-    <option name="LAST_COMMIT_MESSAGE" value="update pipepline build test2" />
+    <MESSAGE value="update pipepline build test3" />
+    <MESSAGE value="update pipepline build revert" />
+    <MESSAGE value="update pipepline test5" />
+    <option name="LAST_COMMIT_MESSAGE" value="update pipepline test5" />
   </component>
   <component name="WindowStateProjectService">
     <state x="495" y="196" key="#Deployment" timestamp="1588551419699">
@@ -423,14 +446,14 @@
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
     <state x="360" y="193" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1792.1017@0.23.1792.1017" timestamp="1588705077357" />
-    <state x="601" y="341" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588629941822">
+    <state x="601" y="341" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588707262997">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
-    <state x="601" y="341" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1792.1017@0.23.1792.1017" timestamp="1588629941822" />
-    <state x="479" y="133" key="CommitChangelistDialog2" timestamp="1588705907944">
+    <state x="601" y="341" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1792.1017@0.23.1792.1017" timestamp="1588707262997" />
+    <state x="479" y="133" key="CommitChangelistDialog2" timestamp="1588706025791">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
-    <state x="479" y="133" key="CommitChangelistDialog2/0.23.1792.1017@0.23.1792.1017" timestamp="1588705907944" />
+    <state x="479" y="133" key="CommitChangelistDialog2/0.23.1792.1017@0.23.1792.1017" timestamp="1588706025791" />
     <state width="1750" height="276" key="GridCell.Tab.0.bottom" timestamp="1588705458613">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>

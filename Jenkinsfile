@@ -1,26 +1,33 @@
-pipeline {  environment {
-    registry = "yifengqin/devops"
-    registryCredential = 'Docker'
-  } agent { docker { image 'python:3.8' } }
-  stages {
-    stage('Building') {
-      steps {
-        sh 'python -m py_compile Blackjack.py'
-        sh 'python -m py_compile Dealer.py'
-        sh 'python -m py_compile Deck.py'
-        sh 'python -m py_compile Player.py'
-        sh 'python -m py_compile Table.py'
-      }
+  node {
+    def app
+
+    stage('Clone repository') {
+        /* Cloning the Repository to our Workspace */
+
+        checkout scm
     }
-    stage('Unit Testing') {
-      steps {
-        sh 'python BlackJack_UnitTests.py'
-      }
+
+    stage('Build image') {
+        /* This builds the actual image */
+
+        app = docker.build("yifengqin/devops")
     }
-    stage('Integration Testing') {
-      steps {
-        sh 'python BlackJack_IntegrationTest.py'
-      }
+
+    stage('Test image') {
+
+        app.inside {
+            echo "Tests passed"
+        }
     }
-  }
+
+    stage('Push image') {
+        /*
+			You would need to first register with DockerHub before you can push images to your account
+		*/
+        docker.withRegistry('https://registry.hub.docker.com', 'docker-hub') {
+            app.push("${env.BUILD_NUMBER}")
+            app.push("latest")
+            }
+                echo "Trying to Push Docker Build to DockerHub"
+    }
 }
