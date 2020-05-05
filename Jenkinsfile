@@ -1,5 +1,7 @@
-pipeline {
-  agent { docker { image 'python:3.8' } }
+pipeline {  environment {
+    registry = "yifengqin/devops"
+    registryCredential = 'Docker'
+  } agent { docker { image 'python:3.8' } }
   stages {
     stage('Building') {
       steps {
