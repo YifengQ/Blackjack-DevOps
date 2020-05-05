@@ -1,4 +1,3 @@
-import os
 import unittest
 from Player import Player
 from Deck import Deck
@@ -180,6 +179,7 @@ class test_DealCards(unittest.TestCase):
     """
     def test_deal_cards_player_score_not_1(self):
         self.table.deal_cards()
+        self.table.hand_total(self.table.player)
         self.assertGreater(self.table.player.score, 1)
 
     """
@@ -188,17 +188,9 @@ class test_DealCards(unittest.TestCase):
     """
     def test_deal_cards_dealer_score_not_10(self):
         self.table.deal_cards()
+        self.table.hand_total(self.table.dealer)
         self.assertGreater(self.table.dealer.score, 0)
-
-    def load_tests(loader, standard_tests, pattern):
-        # top level directory cached on loader instance
-        this_dir = os.path.dirname(__file__)
-        package_tests = loader.discover(start_dir=this_dir, pattern=pattern)
-        standard_tests.addTests(package_tests)
-        return standard_tests
 
 
 if __name__ == '__main__':
     unittest.main()
-
-# Test Commit

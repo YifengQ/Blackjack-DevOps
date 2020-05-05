@@ -61,6 +61,7 @@ class testPlayerDealerScoreUpdate(unittest.TestCase):
     """
     def test_deal_cards_player_score_not_1(self):
         self.table.deal_cards()
+        self.table.hand_total(self.table.player)
         self.assertGreater(self.table.player.score, 1)
 
     """
@@ -70,6 +71,7 @@ class testPlayerDealerScoreUpdate(unittest.TestCase):
 
     def test_deal_cards_dealer_score_not_0(self):
         self.table.deal_cards()
+        self.table.hand_total(self.table.dealer)
         self.assertGreater(self.table.dealer.score, 0)
 
 
