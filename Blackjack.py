@@ -5,7 +5,8 @@ def main():
 
     table = Table()
     table.deal_cards()
-    print("hi")
+    table.hand_total(table.player)
+    table.hand_total(table.dealer)
     table.play_game()
 
 

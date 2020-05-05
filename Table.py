@@ -23,8 +23,8 @@ class Table(object):
         self.hit_card(self.player)
         self.hit_card(self.dealer)
         self.hit_card(self.player)
-        self.hand_total(self.player)
-        self.hand_total(self.dealer)
+        # self.hand_total(self.player)
+        # self.hand_total(self.dealer)
 
     def dealer_hit(self):
 
