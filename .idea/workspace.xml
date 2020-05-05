@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="369a8c9a-17f6-4f73-815c-c114ce418dbd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testrunner.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,6 +15,13 @@
   </component>
   <component name="FavoritesManager">
     <favorites_list name="DevOps-Final-Project" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Unit Test" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -34,7 +40,7 @@
   <component name="PyCoverageOptionsProvider">
     <option name="myUseBundledCoveragePy" value="true" />
   </component>
-  <component name="RunManager" selected="Python.Blackjack">
+  <component name="RunManager" selected="Python.BlackJack_UnitTests">
     <configuration name="BlackJack_UnitTests" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="DevOps-Final-Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -79,8 +85,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="testrunner" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="DevOps-Final-Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.8" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testrunner.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.Blackjack" />
+      <item itemvalue="Python.testrunner" />
       <item itemvalue="Python.BlackJack_UnitTests" />
     </list>
   </component>
@@ -95,7 +124,7 @@
       <option name="presentableId" value="Default" />
       <updated>1588550105664</updated>
       <workItem from="1588550107932" duration="4838000" />
-      <workItem from="1588563107448" duration="6193000" />
+      <workItem from="1588563107448" duration="8430000" />
     </task>
     <task id="LOCAL-00001" summary="Add Jenkinsfile">
       <created>1588551433539</created>
@@ -265,7 +294,28 @@
       <option name="project" value="LOCAL" />
       <updated>1588569820348</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Test Commit 9">
+      <created>1588629960497</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1588629960497</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Test Commit 9">
+      <created>1588629997275</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1588629997275</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Adding Dockerfile">
+      <created>1588630050421</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1588630050421</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -314,48 +364,50 @@
     <MESSAGE value="Test Commit 7" />
     <MESSAGE value="Test Commit 8" />
     <MESSAGE value="Test Commit 9" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test Commit 9" />
+    <MESSAGE value="Adding Dockerfile" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding Dockerfile" />
   </component>
   <component name="WindowStateProjectService">
     <state x="495" y="196" key="#Deployment" timestamp="1588551419699">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
     <state x="495" y="196" key="#Deployment/0.23.1792.1017@0.23.1792.1017" timestamp="1588551419699" />
-    <state x="360" y="193" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588566079273">
+    <state x="360" y="193" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588636894993">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
-    <state x="360" y="193" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1792.1017@0.23.1792.1017" timestamp="1588566079273" />
+    <state x="360" y="193" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1792.1017@0.23.1792.1017" timestamp="1588636894993" />
     <state x="601" y="341" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588629941822">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
     <state x="601" y="341" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1792.1017@0.23.1792.1017" timestamp="1588629941822" />
-    <state x="479" y="133" key="CommitChangelistDialog2" timestamp="1588629997090">
+    <state x="479" y="133" key="CommitChangelistDialog2" timestamp="1588630050269">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
-    <state x="479" y="133" key="CommitChangelistDialog2/0.23.1792.1017@0.23.1792.1017" timestamp="1588629997090" />
-    <state width="1750" height="276" key="GridCell.Tab.0.bottom" timestamp="1588567824533">
+    <state x="479" y="133" key="CommitChangelistDialog2/0.23.1792.1017@0.23.1792.1017" timestamp="1588630050269" />
+    <state width="1177" height="276" key="GridCell.Tab.0.bottom" timestamp="1588637082923">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
-    <state width="1750" height="276" key="GridCell.Tab.0.bottom/0.23.1792.1017@0.23.1792.1017" timestamp="1588567824533" />
-    <state width="1750" height="276" key="GridCell.Tab.0.center" timestamp="1588567824533">
+    <state width="1177" height="276" key="GridCell.Tab.0.bottom/0.23.1792.1017@0.23.1792.1017" timestamp="1588637082923" />
+    <state width="1177" height="276" key="GridCell.Tab.0.center" timestamp="1588637082922">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
-    <state width="1750" height="276" key="GridCell.Tab.0.center/0.23.1792.1017@0.23.1792.1017" timestamp="1588567824533" />
-    <state width="1750" height="276" key="GridCell.Tab.0.left" timestamp="1588567824533">
+    <state width="1177" height="276" key="GridCell.Tab.0.center/0.23.1792.1017@0.23.1792.1017" timestamp="1588637082922" />
+    <state width="1177" height="276" key="GridCell.Tab.0.left" timestamp="1588637082922">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
-    <state width="1750" height="276" key="GridCell.Tab.0.left/0.23.1792.1017@0.23.1792.1017" timestamp="1588567824533" />
-    <state width="1750" height="276" key="GridCell.Tab.0.right" timestamp="1588567824533">
+    <state width="1177" height="276" key="GridCell.Tab.0.left/0.23.1792.1017@0.23.1792.1017" timestamp="1588637082922" />
+    <state width="1177" height="276" key="GridCell.Tab.0.right" timestamp="1588637082922">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
-    <state width="1750" height="276" key="GridCell.Tab.0.right/0.23.1792.1017@0.23.1792.1017" timestamp="1588567824533" />
+    <state width="1177" height="276" key="GridCell.Tab.0.right/0.23.1792.1017@0.23.1792.1017" timestamp="1588637082922" />
     <state x="397" y="170" key="SettingsEditor" timestamp="1588567287069">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
     <state x="397" y="170" key="SettingsEditor/0.23.1792.1017@0.23.1792.1017" timestamp="1588567287069" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/DevOps_Final_Project$BlackJack_UnitTests.coverage" NAME="BlackJack_UnitTests Coverage Results" MODIFIED="1588566370321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DevOps_Final_Project$testrunner.coverage" NAME="testrunner Coverage Results" MODIFIED="1588637017687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DevOps_Final_Project$BlackJack_UnitTests.coverage" NAME="BlackJack_UnitTests Coverage Results" MODIFIED="1588637082917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/DevOps_Final_Project$Blackjack.coverage" NAME="Blackjack Coverage Results" MODIFIED="1588565709675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

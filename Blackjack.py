@@ -5,6 +5,7 @@ def main():
 
     table = Table()
     table.deal_cards()
+    print("hi")
     table.play_game()
 
 
