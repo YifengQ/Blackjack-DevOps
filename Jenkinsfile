@@ -1,7 +1,5 @@
-pipeline {  environment {
-    registry = "yifengqin/devops"
-    registryCredential = 'Docker'
-  }agent { docker { image 'python:3.8' } }
+pipeline {
+  agent { docker { image 'python:3.8' } }
   stages {
     stage('Building') {
       steps {
@@ -10,7 +8,6 @@ pipeline {  environment {
         sh 'python -m py_compile Deck.py'
         sh 'python -m py_compile Player.py'
         sh 'python -m py_compile Table.py'
-        docker.build registry + ":$BUILD_NUMBER"
       }
     }
     stage('Unit Testing') {
