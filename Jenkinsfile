@@ -11,13 +11,13 @@ node {
     }
 
     stage('Unit Testing') {
-      steps {
+      app.inside {
         sh 'python BlackJack_UnitTests.py'
       }
     }
 
     stage('Integration Testing') {
-      steps {
+      app.inside {
         sh 'python BlackJack_IntegrationTest.py'
       }
     }
