@@ -147,7 +147,7 @@
       <option name="presentableId" value="Default" />
       <updated>1588550105664</updated>
       <workItem from="1588550107932" duration="4838000" />
-      <workItem from="1588563107448" duration="9832000" />
+      <workItem from="1588563107448" duration="10055000" />
     </task>
     <task id="LOCAL-00001" summary="Add Jenkinsfile">
       <created>1588551433539</created>
@@ -352,7 +352,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588705334591</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="update pipepline build test2">
+      <created>1588705612885</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1588705612885</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -404,7 +411,8 @@
     <MESSAGE value="Adding Dockerfile" />
     <MESSAGE value="checking docker update" />
     <MESSAGE value="update pipepline build test" />
-    <option name="LAST_COMMIT_MESSAGE" value="update pipepline build test" />
+    <MESSAGE value="update pipepline build test2" />
+    <option name="LAST_COMMIT_MESSAGE" value="update pipepline build test2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="495" y="196" key="#Deployment" timestamp="1588551419699">
@@ -419,10 +427,10 @@
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
     <state x="601" y="341" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1792.1017@0.23.1792.1017" timestamp="1588629941822" />
-    <state x="479" y="133" key="CommitChangelistDialog2" timestamp="1588705334438">
+    <state x="479" y="133" key="CommitChangelistDialog2" timestamp="1588705612748">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
-    <state x="479" y="133" key="CommitChangelistDialog2/0.23.1792.1017@0.23.1792.1017" timestamp="1588705334438" />
+    <state x="479" y="133" key="CommitChangelistDialog2/0.23.1792.1017@0.23.1792.1017" timestamp="1588705612748" />
     <state width="1750" height="276" key="GridCell.Tab.0.bottom" timestamp="1588705458613">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
