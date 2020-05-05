@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="369a8c9a-17f6-4f73-815c-c114ce418dbd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlackJack_IntegrationTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/BlackJack_IntegrationTest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlackJack_UnitTests.py" beforeDir="false" afterPath="$PROJECT_DIR$/BlackJack_UnitTests.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Jenkinsfile" beforeDir="false" afterPath="$PROJECT_DIR$/Jenkinsfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -149,7 +147,7 @@
       <option name="presentableId" value="Default" />
       <updated>1588550105664</updated>
       <workItem from="1588550107932" duration="4838000" />
-      <workItem from="1588563107448" duration="9609000" />
+      <workItem from="1588563107448" duration="9832000" />
     </task>
     <task id="LOCAL-00001" summary="Add Jenkinsfile">
       <created>1588551433539</created>
@@ -347,7 +345,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588637150670</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="update pipepline build test">
+      <created>1588705334591</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1588705334591</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -398,7 +403,8 @@
     <MESSAGE value="Test Commit 9" />
     <MESSAGE value="Adding Dockerfile" />
     <MESSAGE value="checking docker update" />
-    <option name="LAST_COMMIT_MESSAGE" value="checking docker update" />
+    <MESSAGE value="update pipepline build test" />
+    <option name="LAST_COMMIT_MESSAGE" value="update pipepline build test" />
   </component>
   <component name="WindowStateProjectService">
     <state x="495" y="196" key="#Deployment" timestamp="1588551419699">
@@ -413,26 +419,26 @@
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
     <state x="601" y="341" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1792.1017@0.23.1792.1017" timestamp="1588629941822" />
-    <state x="479" y="133" key="CommitChangelistDialog2" timestamp="1588637150524">
+    <state x="479" y="133" key="CommitChangelistDialog2" timestamp="1588705334438">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
-    <state x="479" y="133" key="CommitChangelistDialog2/0.23.1792.1017@0.23.1792.1017" timestamp="1588637150524" />
-    <state width="1750" height="276" key="GridCell.Tab.0.bottom" timestamp="1588705119035">
+    <state x="479" y="133" key="CommitChangelistDialog2/0.23.1792.1017@0.23.1792.1017" timestamp="1588705334438" />
+    <state width="1750" height="276" key="GridCell.Tab.0.bottom" timestamp="1588705458613">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
-    <state width="1750" height="276" key="GridCell.Tab.0.bottom/0.23.1792.1017@0.23.1792.1017" timestamp="1588705119035" />
-    <state width="1750" height="276" key="GridCell.Tab.0.center" timestamp="1588705119034">
+    <state width="1750" height="276" key="GridCell.Tab.0.bottom/0.23.1792.1017@0.23.1792.1017" timestamp="1588705458613" />
+    <state width="1750" height="276" key="GridCell.Tab.0.center" timestamp="1588705458612">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
-    <state width="1750" height="276" key="GridCell.Tab.0.center/0.23.1792.1017@0.23.1792.1017" timestamp="1588705119034" />
-    <state width="1750" height="276" key="GridCell.Tab.0.left" timestamp="1588705119034">
+    <state width="1750" height="276" key="GridCell.Tab.0.center/0.23.1792.1017@0.23.1792.1017" timestamp="1588705458612" />
+    <state width="1750" height="276" key="GridCell.Tab.0.left" timestamp="1588705458611">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
-    <state width="1750" height="276" key="GridCell.Tab.0.left/0.23.1792.1017@0.23.1792.1017" timestamp="1588705119034" />
-    <state width="1750" height="276" key="GridCell.Tab.0.right" timestamp="1588705119035">
+    <state width="1750" height="276" key="GridCell.Tab.0.left/0.23.1792.1017@0.23.1792.1017" timestamp="1588705458611" />
+    <state width="1750" height="276" key="GridCell.Tab.0.right" timestamp="1588705458612">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
-    <state width="1750" height="276" key="GridCell.Tab.0.right/0.23.1792.1017@0.23.1792.1017" timestamp="1588705119035" />
+    <state width="1750" height="276" key="GridCell.Tab.0.right/0.23.1792.1017@0.23.1792.1017" timestamp="1588705458612" />
     <state x="397" y="170" key="SettingsEditor" timestamp="1588567287069">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
