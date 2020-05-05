@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="369a8c9a-17f6-4f73-815c-c114ce418dbd" name="Default Changelist" comment="">
+    <list default="true" id="369a8c9a-17f6-4f73-815c-c114ce418dbd" name="Default Changelist" comment="Demo Testing 4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlackJack_UnitTests.py" beforeDir="false" afterPath="$PROJECT_DIR$/BlackJack_UnitTests.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,7 +148,7 @@
       <option name="presentableId" value="Default" />
       <updated>1588550105664</updated>
       <workItem from="1588550107932" duration="4838000" />
-      <workItem from="1588563107448" duration="15216000" />
+      <workItem from="1588563107448" duration="16450000" />
     </task>
     <task id="LOCAL-00001" summary="Add Jenkinsfile">
       <created>1588551433539</created>
@@ -451,7 +451,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588712873672</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="Demo Testing 4">
+      <created>1588714322950</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1588714322950</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -519,34 +526,34 @@
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
     <state x="601" y="341" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1792.1017@0.23.1792.1017" timestamp="1588707262997" />
-    <state x="479" y="133" key="CommitChangelistDialog2" timestamp="1588712873531">
+    <state x="479" y="133" key="CommitChangelistDialog2" timestamp="1588721247189">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
-    <state x="479" y="133" key="CommitChangelistDialog2/0.23.1792.1017@0.23.1792.1017" timestamp="1588712873531" />
-    <state width="1750" height="276" key="GridCell.Tab.0.bottom" timestamp="1588713336299">
+    <state x="479" y="133" key="CommitChangelistDialog2/0.23.1792.1017@0.23.1792.1017" timestamp="1588721247189" />
+    <state width="1750" height="276" key="GridCell.Tab.0.bottom" timestamp="1588721248836">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
-    <state width="1750" height="276" key="GridCell.Tab.0.bottom/0.23.1792.1017@0.23.1792.1017" timestamp="1588713336299" />
-    <state width="1750" height="276" key="GridCell.Tab.0.center" timestamp="1588713336299">
+    <state width="1750" height="276" key="GridCell.Tab.0.bottom/0.23.1792.1017@0.23.1792.1017" timestamp="1588721248836" />
+    <state width="1750" height="276" key="GridCell.Tab.0.center" timestamp="1588721248835">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
-    <state width="1750" height="276" key="GridCell.Tab.0.center/0.23.1792.1017@0.23.1792.1017" timestamp="1588713336299" />
-    <state width="1750" height="276" key="GridCell.Tab.0.left" timestamp="1588713336298">
+    <state width="1750" height="276" key="GridCell.Tab.0.center/0.23.1792.1017@0.23.1792.1017" timestamp="1588721248835" />
+    <state width="1750" height="276" key="GridCell.Tab.0.left" timestamp="1588721248835">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
-    <state width="1750" height="276" key="GridCell.Tab.0.left/0.23.1792.1017@0.23.1792.1017" timestamp="1588713336298" />
-    <state width="1750" height="276" key="GridCell.Tab.0.right" timestamp="1588713336299">
+    <state width="1750" height="276" key="GridCell.Tab.0.left/0.23.1792.1017@0.23.1792.1017" timestamp="1588721248835" />
+    <state width="1750" height="276" key="GridCell.Tab.0.right" timestamp="1588721248836">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
-    <state width="1750" height="276" key="GridCell.Tab.0.right/0.23.1792.1017@0.23.1792.1017" timestamp="1588713336299" />
+    <state width="1750" height="276" key="GridCell.Tab.0.right/0.23.1792.1017@0.23.1792.1017" timestamp="1588721248836" />
     <state x="397" y="170" key="SettingsEditor" timestamp="1588567287069">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
     <state x="397" y="170" key="SettingsEditor/0.23.1792.1017@0.23.1792.1017" timestamp="1588567287069" />
-    <state x="496" y="271" key="Vcs.Push.Dialog.v2" timestamp="1588712875237">
+    <state x="496" y="271" key="Vcs.Push.Dialog.v2" timestamp="1588714324281">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
-    <state x="496" y="271" key="Vcs.Push.Dialog.v2/0.23.1792.1017@0.23.1792.1017" timestamp="1588712875237" />
+    <state x="496" y="271" key="Vcs.Push.Dialog.v2/0.23.1792.1017@0.23.1792.1017" timestamp="1588714324281" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/DevOps_Final_Project$testrunner.coverage" NAME="testrunner Coverage Results" MODIFIED="1588704446053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
