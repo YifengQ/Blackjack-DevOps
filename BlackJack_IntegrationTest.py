@@ -18,15 +18,9 @@ class testPlayerGetsCards(unittest.TestCase):
 
     def test_deal_cards_player_size_2(self):
         self.table.deal_cards()
-        self.assertEqual(len(self.table.player.hand), 2)
 
-    """
-    Tests that the the table class will get a card from the deck class and give it to the player class
-    return: Return a player with a card updated from deck
-    """
-    def test_table_calls_getCard_updatePlayer(self):
         self.table.hit_card(self.table.player)
-        self.assertEqual(len(self.table.player.hand), 1)
+        self.assertEqual(len(self.table.player.hand), 3)
 
 
 class testDealerGetsCards(unittest.TestCase):
